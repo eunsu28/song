@@ -1,6 +1,6 @@
 start = True
 while start:
-    a = input(: )
+    a = input(":" )
     if a == "a":
         print("도")
     elif a == "log out":
