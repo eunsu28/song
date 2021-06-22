@@ -9,3 +9,7 @@ while start:
         print("미")
     elif a == "log out":
         start = False
+
+
+#hololo
+    
